@@ -1,0 +1,171 @@
+p
+
+{
+	text-align:justify;
+	font-size:15px;
+	line-height:25px;
+
+}	
+	
+body
+
+{
+	font-family: "Trebuchet MS", Roboto, sans-serif;
+	color:black;
+	background-image: url('office.jpg');
+	background-attachment: fixed;
+	background-size:cover;
+}	
+
+#Top
+
+{
+	text-align:center;
+	color:black;
+	margin-left:15%
+}	
+
+.center
+
+{
+	text-align:center;
+	color:black;
+	
+}	
+
+.img
+
+{
+	border-color: transparent;
+	border-width:medium;
+	border-style:solid;
+	width:200px;
+	height:200px;
+}
+	
+/* the following class selector is for the subtitles of the names of the businessmen*/	
+.rich
+{
+	text-align:center;
+	color:black;
+}
+
+.p
+{
+	text-align:justify;
+	margin-right:3%
+}
+
+/* sidebar begins here*/
+.sidebar
+{
+	position:fixed;
+	background:#000080;
+	width:200px;
+	height:100%;
+	top:0;
+	left:0;
+	z-index:1;
+}
+
+.sidebar ul li
+{
+	margin:25px 0;
+}
+
+.sidebar ul li a
+{
+	color:white;
+	padding:0 30px;
+}
+
+.sidebar ul li a:hover
+{
+	color:black;
+	margin-left:20px;
+	transition:0.4s;
+}
+/*sidebar ends here*/
+
+/* main selctors start here*/
+.main
+{
+	margin-left:200px;
+	padding:5px;
+}
+
+.main h2
+{
+	margin-top:20px;
+	text-align:center;
+}
+/*main selectors end here*/
+
+#h
+{
+	text-align:center;
+	color:white;
+	font-weight:bold;
+	font-size:20px;
+}
+
+/*The following selector styles the names of the businessmen on the sidebar*/ 
+*
+{
+	margin:0;
+	padding:0;
+	text-decoration:none;
+}
+
+.nav
+{
+	font-size:14px;
+	line-height:50px;
+	text-align:center;
+}
+
+img
+{
+	float:left;
+	width:300px;
+	height:260px;
+	padding: 0 20px 0 0;
+}
+
+.para
+{
+	font-size:20px;
+	line-height:2em;
+	margin-bottom:32px;
+	margin-left: 2%;
+	margin-right:2%;
+}
+
+.margin
+{
+	margin-left:1100px;
+	margin:auto;
+}
+
+#right
+{
+	float:right;
+	margin-left:20px;
+	height:400px;
+	width:400px;
+}
+
+.margin1
+{
+	margin-right:86%;
+}
+
+#i:
+{
+	width = "200px"
+}
+
+#Topp
+{
+	margin-right:10%;
+}
